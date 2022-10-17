@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mahesh
+- 👋 Hi, I’m Mahesh Byreddy
 
 <!---
 mbyreddy/mbyreddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
